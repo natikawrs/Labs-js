@@ -1,0 +1,1 @@
+//Error: prompt() is and will not be supported.
